@@ -2,6 +2,7 @@
   {
     "name": "Sarp Aykent",
     "url": "https://www.sarpaykent.com",
+    "icon": "https://favicons.githubusercontent.com/www.sarpaykent.com",
     "slug": "sarp-aykent",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 1443,
-    "timeWeek": 808,
-    "timeMonth": 884,
-    "timeYear": 884
+    "time": 923,
+    "timeDay": 1593,
+    "timeWeek": 948,
+    "timeMonth": 923,
+    "timeYear": 923,
+    "dailyMinutesDown": {}
   }
 ]
