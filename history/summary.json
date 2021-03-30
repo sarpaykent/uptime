@@ -5,16 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.sarpaykent.com",
     "slug": "sarp-aykent",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 267,
-    "timeWeek": 584,
-    "timeMonth": 606,
-    "timeYear": 695,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.09%",
+    "time": 694,
+    "timeDay": 500,
+    "timeWeek": 615,
+    "timeMonth": 603,
+    "timeYear": 694,
+    "dailyMinutesDown": {
+      "2020-11-24": 1325,
+      "2020-11-23": 349
+    }
   }
 ]
