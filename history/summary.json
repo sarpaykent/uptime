@@ -4,7 +4,7 @@
     "url": "https://www.sarpaykent.com",
     "icon": "https://favicons.githubusercontent.com/www.sarpaykent.com",
     "slug": "sarp-aykent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 344,
     "timeMonth": 769,
     "timeYear": 732,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-19": 0
+    }
   },
   {
     "name": "Tian",
