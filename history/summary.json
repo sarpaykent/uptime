@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 735,
-    "timeDay": 953,
-    "timeWeek": 500,
-    "timeMonth": 795,
-    "timeYear": 735,
+    "time": 738,
+    "timeDay": 1606,
+    "timeWeek": 665,
+    "timeMonth": 794,
+    "timeYear": 738,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/www.tianaix.com",
     "slug": "tian",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 790,
-    "timeDay": 302,
-    "timeWeek": 467,
-    "timeMonth": 755,
-    "timeYear": 790,
-    "dailyMinutesDown": {
-      "2021-08-19": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 777,
+    "timeDay": 234,
+    "timeWeek": 445,
+    "timeMonth": 713,
+    "timeYear": 777,
+    "dailyMinutesDown": {}
   }
 ]
