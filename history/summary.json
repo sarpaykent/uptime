@@ -4,18 +4,20 @@
     "url": "https://www.sarpaykent.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sarpaykent.com.ico",
     "slug": "sarp-aykent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 733,
-    "timeDay": 468,
-    "timeWeek": 712,
-    "timeMonth": 825,
-    "timeYear": 701,
-    "dailyMinutesDown": {}
+    "timeDay": 315,
+    "timeWeek": 644,
+    "timeMonth": 803,
+    "timeYear": 699,
+    "dailyMinutesDown": {
+      "2023-07-18": 0
+    }
   },
   {
     "name": "Tian",
