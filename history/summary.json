@@ -14,7 +14,7 @@
     "timeDay": 358,
     "timeWeek": 1203,
     "timeMonth": 842,
-    "timeYear": 698,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2023-07-18": 29
     }
@@ -26,15 +26,15 @@
     "slug": "tian",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "42.92%",
+    "uptimeDay": "47.50%",
     "uptimeWeek": "61.07%",
     "uptimeMonth": "91.04%",
     "uptimeYear": "99.25%",
-    "time": 518,
-    "timeDay": 444,
-    "timeWeek": 543,
+    "time": 495,
+    "timeDay": 451,
+    "timeWeek": 527,
     "timeMonth": 405,
-    "timeYear": 470,
+    "timeYear": 471,
     "dailyMinutesDown": {
       "2023-10-17": 803,
       "2023-10-16": 786,
