@@ -24,15 +24,15 @@
     "url": "https://www.tianaix.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.tianaix.com.ico",
     "slug": "tian",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "56.73%",
-    "uptimeWeek": "60.48%",
-    "uptimeMonth": "90.91%",
-    "uptimeYear": "99.24%",
-    "time": 511,
+    "uptimeDay": "60.12%",
+    "uptimeWeek": "60.77%",
+    "uptimeMonth": "90.97%",
+    "uptimeYear": "99.25%",
+    "time": 510,
     "timeDay": 437,
-    "timeWeek": 531,
+    "timeWeek": 533,
     "timeMonth": 402,
     "timeYear": 468,
     "dailyMinutesDown": {
@@ -43,7 +43,7 @@
       "2023-10-14": 370,
       "2023-10-13": 578,
       "2023-10-12": 481,
-      "2023-10-11": 198
+      "2023-10-11": 169
     }
   }
 ]
