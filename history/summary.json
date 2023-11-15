@@ -6,17 +6,17 @@
     "slug": "sarp-aykent",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "80.63%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "99.36%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "77.74%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.93%",
     "time": 692,
     "timeDay": 251,
     "timeWeek": 357,
     "timeMonth": 596,
-    "timeYear": 677,
+    "timeYear": 676,
     "dailyMinutesDown": {
-      "2023-11-15": 278,
+      "2023-11-15": 320,
       "2023-07-18": 29
     }
   },
@@ -34,7 +34,7 @@
     "time": 478,
     "timeDay": 494,
     "timeWeek": 398,
-    "timeMonth": 342,
+    "timeMonth": 343,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2023-10-23": 589,
