@@ -7,16 +7,16 @@
     "status": "up",
     "uptime": "99.96%",
     "uptimeDay": "62.66%",
-    "uptimeWeek": "94.26%",
-    "uptimeMonth": "98.68%",
+    "uptimeWeek": "94.11%",
+    "uptimeMonth": "98.65%",
     "uptimeYear": "99.88%",
-    "time": 695,
-    "timeDay": 343,
-    "timeWeek": 388,
-    "timeMonth": 564,
+    "time": 696,
+    "timeDay": 341,
+    "timeWeek": 386,
+    "timeMonth": 560,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-11-16": 59,
+      "2023-11-16": 74,
       "2023-11-15": 520,
       "2023-07-18": 29
     }
