@@ -4,15 +4,15 @@
     "url": "https://www.sarpaykent.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sarpaykent.com.ico",
     "slug": "sarp-aykent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "51.46%",
-    "uptimeWeek": "56.99%",
-    "uptimeMonth": "90.10%",
+    "uptimeWeek": "57.30%",
+    "uptimeMonth": "90.17%",
     "uptimeYear": "99.18%",
     "time": 589,
     "timeDay": 578,
-    "timeWeek": 416,
+    "timeWeek": 418,
     "timeMonth": 411,
     "timeYear": 553,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2023-11-22": 808,
       "2023-11-21": 653,
       "2023-11-20": 755,
-      "2023-11-19": 581
+      "2023-11-19": 549
     }
   },
   {
