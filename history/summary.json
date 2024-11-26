@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 465,
-    "timeDay": 373,
-    "timeWeek": 329,
-    "timeMonth": 285,
-    "timeYear": 477,
-    "dailyMinutesDown": {
-      "2023-11-27": 565
-    }
+    "uptimeYear": "99.78%",
+    "time": 486,
+    "timeDay": 328,
+    "timeWeek": 323,
+    "timeMonth": 287,
+    "timeYear": 475,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tian",
@@ -30,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.61%",
-    "time": 300,
-    "timeDay": 299,
-    "timeWeek": 230,
-    "timeMonth": 230,
+    "time": 301,
+    "timeDay": 236,
+    "timeWeek": 221,
+    "timeMonth": 232,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2024-10-06": 317,
