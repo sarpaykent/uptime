@@ -4,9 +4,9 @@
     "url": "https://www.sarpaykent.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.sarpaykent.com.ico",
     "slug": "sarp-aykent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 227,
     "timeMonth": 271,
     "timeYear": 354,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   },
   {
     "name": "Tian",
